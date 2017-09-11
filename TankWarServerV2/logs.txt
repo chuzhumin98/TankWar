@@ -1,0 +1,19 @@
+cat 1
+dog 0
+
+j 0
+dog 6
+nini 0
+dog 3
+d 19
+dog 2
+mimi 0
+dog 30
+c 0
+dog 1
+c 20
+dog 10
+c 0
+dog 0
+c 0
+dog 0
